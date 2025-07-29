@@ -1,1 +1,1 @@
-# -Allora-Network-Evaluator-Development-Kit-EDK-.
+The AlloraEvaluator is part of the [Allora Network](https://allora.network) Evaluator Development Kit (EDK). It provides a modular framework to assess machine learning model performance using decentralized, configurable evaluation criteria.-.
