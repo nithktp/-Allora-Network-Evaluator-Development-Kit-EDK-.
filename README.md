@@ -3,7 +3,9 @@
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/nithktp/allora-edk-evaluator.git
+git clone https://github.com/nithktp/-Allora-Network-Evaluator-Development-Kit-EDK-.git
+cd -Allora-Network-Evaluator-Development-Kit-EDK-
+cat README.md
 cd allora-edk-evaluator
 pip install -r requirements.txt
 ```
